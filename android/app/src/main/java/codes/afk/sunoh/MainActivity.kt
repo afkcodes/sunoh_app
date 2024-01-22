@@ -1,4 +1,4 @@
-package com.sunohrn
+package codes.afk.sunoh
 
 import android.os.Build
 import android.os.Bundle

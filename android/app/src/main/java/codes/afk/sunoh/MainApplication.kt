@@ -1,4 +1,4 @@
-package com.sunohrn
+package codes.afk.sunoh
 
 import android.app.Application
 import android.content.res.Configuration

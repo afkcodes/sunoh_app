@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sunoh-rn",
-    "slug": "sunoh-rn",
+    "name": "Sunoh",
+    "slug": "Sunoh",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
